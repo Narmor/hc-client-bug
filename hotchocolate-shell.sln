@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hotchocolate-shell", ".\hotchocolate-shell\hotchocolate-shell.csproj", "{5968FA9B-6E05-4E3E-A1A1-2DE9658AC6AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hotchocolate-client-shell", ".\hotchocolate-client-shell\hotchocolate-client-shell.csproj", "{6661B08E-E304-4546-9577-34041ED586EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5968FA9B-6E05-4E3E-A1A1-2DE9658AC6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5968FA9B-6E05-4E3E-A1A1-2DE9658AC6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5968FA9B-6E05-4E3E-A1A1-2DE9658AC6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5968FA9B-6E05-4E3E-A1A1-2DE9658AC6AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6661B08E-E304-4546-9577-34041ED586EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6661B08E-E304-4546-9577-34041ED586EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6661B08E-E304-4546-9577-34041ED586EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6661B08E-E304-4546-9577-34041ED586EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
